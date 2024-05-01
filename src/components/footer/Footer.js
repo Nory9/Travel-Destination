@@ -7,6 +7,7 @@ function Footer(props){
             <li><a href='https://github.com/Nory9'>developed by noor</a></li>
             <li> &copy; CopyRights</li>
         </ul>
+        <div></div>
        </div>
     );
 }
