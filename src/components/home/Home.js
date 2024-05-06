@@ -3,7 +3,8 @@ import Header from '../header/Header';
 import Footer from '../footer/Footer';
 import Tours from '../tours/Tours'
 // import db from '/home/noor/travel-destination/src/data/db.json'
-const toursData= require('/home/noor/travel-destination/src/data/db.json');
+// const toursData= require('/home/noor/travel-destination/src/data/db.json');
+  import toursData from  '../../data/db.json'
 function Home(){
     return (
         <>
