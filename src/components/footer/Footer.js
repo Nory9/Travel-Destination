@@ -1,7 +1,7 @@
 import './Footer.css'
 import React from 'react';
 // import { CDBFooter } from 'cdbreact';
-import { CDBFooter, CDBFooterLink, CDBBtn, CDBIcon, CDBContainer,CDBBox } from 'cdbreact';
+import { CDBBtn, CDBIcon,CDBBox } from 'cdbreact';
 function Footer(props){
     return(
          <CDBBox className="shadow footer">
@@ -14,7 +14,7 @@ function Footer(props){
         style={{ width: '80%' }}
       >
         <CDBBox display="flex" alignItems="center" className=''>
-          <a href="/" className="d-flex align-items-center p-0 text-dark">
+          <a href="https://github.com/Nory9" className="d-flex align-items-center p-0 text-dark">
             <span className="ms-4 h5 mb-0 font-weight-bold">NoorMisk</span>
           </a>
           <small className="ms-2">&copy; Misk, 2024. All rights reserved.</small>

@@ -2,3 +2,14 @@
    padding: 40px;
     
 } 
+.nav{
+  display:flex;
+  padding: 10px;
+  justify-content: space-around;
+  text-decoration: none;
+  color: #000;
+}
+
+.nav:hover{
+  color: #353232;
+}
