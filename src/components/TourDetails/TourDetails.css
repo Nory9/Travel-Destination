@@ -1,0 +1,15 @@
+/* .Ncard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 200px;
+    /* width: 700px; */
+
+ .center-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center; /* Centers vertically */
+     height: 100vh;
+    /* width: 100vh; */
+}  
