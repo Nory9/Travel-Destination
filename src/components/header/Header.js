@@ -9,7 +9,7 @@ function Header(props){
     return(
         <Navbar expand="lg" className="bg-body-tertiary header">
         <Container className='test'>
-          <Navbar.Brand href="#home">LOGO</Navbar.Brand>
+          <Navbar.Brand href="#home"><img class="img" src="https://static.vecteezy.com/system/resources/previews/021/286/390/original/aeroplane-airplane-icon-on-transparent-background-free-png.png" alt="logo"></img></Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav" >
             <Nav className="me-auto ">
